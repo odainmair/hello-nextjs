@@ -1,0 +1,6 @@
+export { default as BaseLayout } from "./BaseLayout"
+export { default as GradientLayout } from "./GradientLayout"
+export { default as Box } from "./Box"
+export { default as PolicyLayout } from "./PolicyLayout"
+export { default as WhiteLayout } from "./WhiteLayout"
+export { default as MainLayout } from "./MainLayout"

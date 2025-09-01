@@ -1,0 +1,1149 @@
+{
+  "SEO": {
+    "Home": {
+      "title": "Enjaz",
+      "description": "Enjaz Easy for transferring services via Western Union to transfer services via Transfast for other products and services for Musaned services · Enjaz App · Offers",
+      "OgTitle": "Enjaz App",
+      "OgDescription": "Enjaz Easy for transferring services via Western Union to transfer services via Transfast for other products and services for Musaned services · Enjaz App · Offers",
+      "locale": "en_US",
+      "CustomerService": "Customer Service"
+    }
+  },
+  "NavBar": {
+    "personal": "Personal",
+    "transfers": "Transfers",
+    "offers": "Offers",
+    "company": "Company",
+    "getApp": "Get App",
+    "getEnjazApp": "GET THE ENJAZ APP NOW!",
+    "getEnjazAppDescription": "Scan the QR code to download the app"
+  },
+  "FAQS": {
+    "title": "Questions? Answers",
+    "questionsAndAnswes": [
+      {
+        "question": "What is Enjaz?",
+        "answer": "Enjaz is a SAMA-licensed payment services company offering a wide range of services including global and local transfers, cards, and payments solutions through its app, branches, and digital channels ."
+      },
+      {
+        "question": "What transfer channels are available?",
+        "answer": "You can transfer through the Enjaz app, self-service machines, POS, branches, and Bank Albilad ATMs."
+      },
+      {
+        "question": "How can I register with Enjaz?",
+        "answer": "You can register through the app or by visiting a branch with your ID or Iqama."
+      },
+      {
+        "question": "What is Enjaz Card?",
+        "answer": "It is a prepaid card that can be used for purchases, bill payments, transfers, and cash withdrawals."
+      },
+      {
+        "question": "What should I do if I forget my PIN?",
+        "answer": "You can reset your PIN through the app."
+      }
+    ],
+    "TransfersQuestions": [
+      {
+        "question": "What are the options for sending money?",
+        "answer": "You can transfer through Enjaz Easy, Western Union, Transfast, or SWIFT."
+      },
+      {
+        "question": "How can I add or edit a beneficiary?",
+        "answer": "You can add or edit beneficiary through the Enjaz app or by visiting a branch."
+      },
+      {
+        "question": "How can I check the exchange rate?",
+        "answer": "You can view live rates through the Enjaz app or any Enjaz branch."
+      },
+      {
+        "question": "What should I do if the transfer fails, or the beneficiary does not receive the money?",
+        "answer": "Call support at 8005000300 or visit the nearest branch for assistance."
+      },
+      {
+        "question": "Can I transfer without visiting a branch?",
+        "answer": "Call support at 8005000300 or visit the nearest branch for assistance."
+      },
+      {
+        "question": "Can I transfer without visiting a branch?",
+        "answer": "Yes, through the Enjaz app, self-service machines, POS, or Bank Albilad ATMs."
+      }
+    ]
+  },
+  "Footer": {
+    "Enjaz": "Enjaz",
+    "personal": "Personal",
+    "transfers": "Transfers",
+    "offers": "Offers",
+    "company": "Company",
+    "getApp": "Get App",
+    "Support": "Support",
+    "CustomerSupport": "Customer Support",
+    "ComplaintEscalation": "Complaint Escalation",
+    "QuickLinks": "Quick Links",
+    "termsAndConditions": "Terms & Conditions",
+    "CookiesPolicy": "Cookies Policy",
+    "privacyPolicy": "Privacy Policy",
+    "TermsOfUse": "Terms of Use",
+    "FinancialProtectionRules": "Security Statement",
+    "DownloadApp": " Download App",
+    "CopyRight": "​All Rights Reserved © 2025 ​​​​​Enjaz Payment Services Company, A Saudi joint closed stock company, with national unified No. 7030223460, Head Office: Al Mutamarat 8229, Riyadh 3952 - 12711, KSA. Under the supervision and control of the Saudi Central Bank as a fintech service provider, and licensed under decree No.19/M U M/1443 dated 03/01/1444H (31/07/2022 G)​ .."
+  },
+  "Home": {
+    "heroTitle": "Closer,Everywhere",
+    "heroDescription": "Keep your money close no matter the distance. Transfer internationally and locally, pay bills, and spend anywhere with your Enjaz card",
+    "stepIntoOurWorld": {
+      "title": "Step into our world",
+      "listItems": [
+        {
+          "title": "International Transfers",
+          "description": ["Send money globally", "in real-time"],
+          "image": "/home-s-1.webp"
+        },
+        {
+          "title": "Local Transfers",
+          "description": ["Send money to local ", "banks & Enjaz wallets"],
+          "image": "/home-s-2.webp"
+        },
+        {
+          "title": "Enjaz Cards",
+          "description": ["Your everyday card.", "reimagined"],
+          "image": "/home-s-3.webp"
+        },
+        {
+          "title": "Bill Payments",
+          "description": ["Pay Sadad bills,", "all in one place"],
+          "image": "/home-s-4.webp"
+        },
+        {
+          "title": "Spending Insights",
+          "description": ["Track your spending,", " Stay in control"],
+          "image": "/home-s-5.webp"
+        },
+        {
+          "title": "Household Salaries ",
+          "description": ["Pay Musaned salaries", "with zero hassle"],
+          "image": "/home-s-6.webp"
+        }
+      ]
+    },
+    "globalVideos": {
+      "deskTopVideo": "/Enjaz_Countries.mp4",
+      "mobileVideo": "/Enjaz_Countries_mobile.mp4"
+    },
+    "UnlockEndlessPossibilities": {
+      "title": "Unlock Endless Possibilities with Enjaz Card",
+      "buttonText": "Try it now"
+    },
+    "PinSLider": {
+      "title": "One app. For a closer world.",
+      "description": "Everything you need, brought together in one app to make life simpler and closer.",
+      "InternationalTransfers": "International Transfers",
+      "LocalTransfers": "Local Transfers",
+      "Card Management": "Card Management",
+      "SpendingInsights": "Spending Insights",
+      "ApplePay": "Apple Pay",
+      "SamsungPay": "Samsung Pay",
+      "localImage": "/Local-EN.webp",
+      "insightsImage": "/Analytics-En.webp",
+      "applePayImage": "/Apple-Pay.webp",
+      "samsungPayImage": "/Samsung-Pay.webp",
+      "globalImage": "/Global-En.webp",
+      "cardImage": "/Card-En.webp"
+    },
+    "discoverOurLatestOffers": {
+      "title": "Discover our latest offers",
+      "buttonText": "View Offers"
+    },
+    "DownloadEnjazApp": {
+      "title": ["Download", " Enjaz App"],
+      "description": ["One tap. One app. ", "Closer, Everywhere."],
+      "buttonText": "Get Enjaz App"
+    }
+  },
+  "TransfersPage": {
+    "heroSection": {
+      "title": "Send Money Worldwide",
+      "description": "More Control. More Choices.",
+      "buttonText": "Transfer Now"
+    },
+    "PartnersLogs": [
+      "/p-2.webp",
+      "/p-3.webp",
+      "/p-3.webp",
+      "/p-4.webp",
+      "/p-5.webp",
+      "/p-6.webp",
+      "/p-7.webp",
+      "/p-8.webp",
+      "/p-9.webp",
+      "/p-10.webp",
+      "/p-11.webp",
+      "/p-12.webp",
+      "/p-13.webp"
+    ],
+    "MltipleTransfers": {
+      "title": "Multiple service providors",
+      "description": "Select from multiple service providers for international transfer, each offering different rates, fees, and delivery options.",
+      "listItems": [
+        {
+          "image": "/t1-en.webp",
+          "mobileImage": "/t1-en-m.webp",
+          "title": "International Transfers"
+        },
+        {
+          "image": "/t2-en.webp",
+          "mobileImage": "/t2-en-m.webp",
+          "title": "International Transfers"
+        },
+        {
+          "image": "/t3-en.webp",
+          "mobileImage": "/t3-en-m.webp",
+          "title": "International Transfers"
+        }
+      ]
+    },
+    "MoreWayes": {
+      "title": "Discover our channels",
+      "servicesList": [
+        {
+          "title": "Self-Service Kiosks",
+          "description": "Transfer your money easily through Enjaz Self-Serve Machines available across Saudi.",
+          "image": "/atm.webp"
+        },
+        {
+          "title": "Enjaz Pay App",
+          "description": "Send money anytime, anywhere with the fast and secure Enjaz Pay Mobile App.",
+          "image": "/enjaz-pay_app.webp"
+        },
+        {
+          "title": "Enjaz Branches",
+          "description": "Send money easily and securely at any Enjaz branch across Saudi Arabia.",
+          "image": "/enjaz-branches.webp"
+        },
+        {
+          "title": "Smart POS",
+          "description": "Wherever you are, we bring the Smart POS to you and handle the transfer on the spot.",
+          "image": "/visa.webp"
+        }
+      ],
+      "selfServe": "Self-Serve Machines",
+      "selfServeDescription": "",
+      "smartPos": "Smart POS",
+      "smartPosDescription": "Wherever you are, we bring the Smart POS to you and handle the transfer on the spot."
+    },
+    "OurPartnerEcosystem": "Our Partner ecosystem",
+    "MoreWayToSendMony": {
+      "title": "More Ways to Send Money",
+      "cashPickup": "Cash Pickup",
+      "cashPickupDescription": "Your recipient collects the transferred cash from a nearby partner location at their convenience. With thousands of global pickup points, receiving money is always simple and accessible.",
+      "bankAccount": "Bank Account",
+      "bankAccountDescription": "Your recipient receives the transferred amount directly into their bank account. This convenient option ensures secure and reliable transfers without the need to visit any physical location.",
+      "digitalWallet": "Digital Wallet",
+      "digitalWalletDescription": "Your recipient receives the transferred amount instantly into their mobile wallet. A fast and convenient option that gives them immediate access to their money, right from their phone."
+    }
+  },
+  "CompanyPage": {
+    "heroSection": {
+      "title": "Decades of Trust. Millions of Stories.",
+      "description": "A trusted bridge between families, dreams, and opportunities."
+    },
+    "EnjazNumbers": {
+      "description": "For more than 22 years, Enjaz has been more than a financial service. We've been a trusted bridge between families, dreams, and opportunities. Every transaction we handle carries a story, and every story matters to us.",
+      "transactions": "In transactions",
+      "partnerBanks": "Partner banks",
+      "teamMembers": "Team members",
+      "appDownloads": "App downloads"
+    },
+    "WhatWeDo": {
+      "title": "The Heart Behind What We Do ",
+      "description": "Money connects lives and moving it shouldn't be complicated. Whether you're sending support to family back home, managing your daily needs, or building a better future, we've all felt how hard it can be to move money when it matters most. Enjaz exists to make sending, receiving, and managing money simpler, safer, and closer to home, no matter where you or your loved ones are."
+    },
+    "OurTeam": {
+      "title": "Meet our team",
+      "description": "Behind every service we offer is a team driven by purpose, passion, and care. Meet the people who turn every transfer into a connection that matters."
+    },
+    "CuriousForMore": {
+      "title": "Curious for more?",
+      "items": [
+        {
+          "icon": "/laptop.svg",
+          "title": "Blog",
+          "description": "We share rich and simplified content on remittances and financial services to help you make smarter decisions and get closer to our vision.",
+          "buttonText": "View Blog"
+        },
+        {
+          "icon": "/bag.svg",
+          "title": "Careers",
+          "description": "Explore career opportunities at Enjaz and join a team that shares your passion, believes in growth, and creates real impact in people’s lives.",
+          "buttonText": "View Careers"
+        },
+        {
+          "icon": "/global.svg",
+          "title": "News",
+          "description": "Discover the latest updates from Enjaz, including product improvements, strategic partnerships, and our growing presence across new markets.",
+          "buttonText": "View News"
+        },
+        {
+          "icon": "/24-support.svg",
+          "title": "Support",
+          "description": "Our support center is here to guide you with clear answers, helpful resources, and real people ready to assist whenever you need.",
+          "buttonText": "Contact Support"
+        }
+      ]
+    }
+  },
+  "SupportPage": {
+    "heroSection": {
+      "reachUs": "Reach Us",
+      "flowUs": "Flow Us",
+      "insideKSA": "Inside KSA",
+      "outsideKSA": "Outside KSA",
+      "email": "Email"
+    }
+  },
+  "OffersPage": {
+    "heroSection": {
+      "title": "Offers",
+      "description": "Discover the latest offers from Enjaz and take advantage of our special deals and promotions tailored for you."
+    },
+    "viewMore": "View More"
+  },
+  "ComplaintEscalationPage": {
+    "heroSection": {
+      "title": "Complaint Escalation Process",
+      "description": "Last Updated: May 31, 2025"
+    },
+    "content": {
+      "title": "Complaint Escalation Process",
+      "forYourConvenience": "For your convenience, kindly submit your complaints from:",
+      "localTollFree": "Local toll free",
+      "internationally": "Internationally",
+      "orVisitingOneofEnjazBranches": "Or visiting one of Enjaz branches",
+      "ifWeCannotResolve": "If we can’t resolve your issue immediately:",
+      "yourComplaint": "Your complaint will be registered",
+      "complaintNumber": "Complaint number will be forwarded to your mobile",
+      "checkheStatus": "Check the status of your compliant through our free number",
+      "footer": "Your satisfaction is our goal. If you are dissatisfied with the result of your complaint or inquiry, you can escalate it to a higher level within the company from Local toll free: {phoneOne} or internationally: {phoneTwo}, or you will be directed to the appropriate authority."
+    }
+  },
+  "CookiesPolicy": {
+    "pageTitle": "Cookies policy",
+    "pageDescription": "Last Updated: October 31, 2023",
+    "section1": {
+      "title": "1. Overview",
+      "points": {
+        "point1": {
+          "title": "1.1 Introduction",
+          "description": "The Cookies Policy outlines how Enjaz Payment Services Company, a Saudi Closed Joint Stock Company (herein referred to as “we\", “us\", “our\" or “Organization\") utilizes cookies on our website and mobile app (herein referred to as “Site\") to enhance the browsing experience of the user of this site (herein referred to as “you\" and “your\") and personalize content."
+        },
+        "point2": {
+          "title": "1.2 Purpose",
+          "description": "The purpose of the Cookies Policy is to outline the specific reasons for using cookies on our Site and how you can manage these cookies. Cookies are essential for ensuring the proper functioning of our Site, such as connection speed, operating system details, visit times and durations, and IP addresses. Additionally, we use cookies to analyze Site traffic and trends, which helps us improve our services and content based on user preferences. Some cookies are also used for marketing purposes, allowing us to provide personalized advertisements that are more relevant to our users."
+        },
+        "point3": {
+          "title": "1.3 Objective",
+          "description": "The objective of this Cookies Policy is to provide transparency and clarity regarding the use of cookies on our Site. We aim to inform users about the types of cookies we use, how they work, and the specific purposes they serve. Our goal is to ensure that that users understand the importance of cookies in enhancing their browsing experience and optimizing Site functionality. Our commitment is to respect user privacy and data protection rights while utilizing cookies to improve the overall user experience on our Site."
+        },
+        "point4": {
+          "title": "1.4 Objective",
+          "description": "This policy applies to the use of cookies on our Site, outlining the collection and utilization of cookies, as well as providing guidance on managing your cookie preferences. You have the option to either enable all cookies or customize your settings through the cookie preferences. You can adjust your web browser settings to accept or decline all cookies, or selectively choose specific types of cookies based on your preferences, as outlined in section 2.3.",
+          "table": {
+            "headers": ["Term", "Definition"],
+            "rows": [
+              [
+                "Cookies",
+                "Cookies refer to small files of information that a web server generates and sends to a web browser. Web browsers store the cookies they receive for a predetermined period of time, or for the length of a user's session on a website. Cookies are attached to any future requests the user makes of the web server."
+              ],
+              [
+                "Personal Data",
+                "Any data, regardless of its source or form, that may lead to identifying an individual specifically, or that may directly or indirectly make it possible to identify an individual, including name, personal identification number, addresses, contact numbers, license numbers, records, personal assets, bank and credit card numbers, photos and videos of an individual, and any other data of personal nature."
+              ],
+              [
+                "Data Protection Officer",
+                "A DPO is an appointed expert on data protection that informs and advises on applicable data protection laws and regulations, monitors compliance with applicable laws and regulations, and acts as a point of contact with relevant regulatory authorities."
+              ],
+              [
+                "Privacy Policy",
+                "A Privacy describes how an entity collects, uses, discloses, and protects your Personal Data and respects your privacy."
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "section2": {
+      "title": "2. Policy Statement",
+      "points": {
+        "point1": {
+          "title": "2.1 What Are Cookies?",
+          "description": "A cookie is a small file that is placed on your computer's hard drive. Its functions include storing your login and session statuses, recording your user preferences, and analyzing web traffic. They help us enhance your browsing experience by recalling your preferences and offering tailored content. Cookies assist us in analyzing your interactions with our Site, leading to improved performance and functionality."
+        },
+        "point2": {
+          "title": "2.2 How Does Enjaz Uses Cookies?",
+          "description": "Organization utilizes cookies to gather information regarding visitors' usage of the Site, such as connection speed, operating system details, visit times and durations, and IP addresses. This data obtained through cookies allows Organization to comprehend how its Site is being utilized, including visitor numbers, pages viewed per session, time spent on specific pages, and more. This, in turn, enhances the visitor experience. Organization does not seek to identify visitors personally based on their IP addresses. Advertisements and promotional content are displayed on Organization's Site and are visible to all users. Cookies may be used to deliver targeted marketing or advertising messages to you using targeting cookies. Cookies do not in any way compromise the security of your computer. Visitors can use most of Organization's Sites with no loss of functionality if cookies are disabled from the web browser."
+        },
+        "point3": {
+          "title": "2.3 Who Provides the Cookies?",
+          "description": "Our cookies are sourced from two different providers:",
+          "table": {
+            "headers": ["Cookies Provider", "Details"],
+            "rows": [
+              [
+                "First Party",
+                "Set by Organization on visitor's device and exclusively utilized by Organization."
+              ],
+              [
+                "Third Party",
+                "Cookies belonging to external organizations (e.g., Organization's advertising partners) that are utilized on our Sites."
+              ]
+            ]
+          }
+        },
+        "point4": {
+          "title": "2.4 How Long Do the Cookies Last?",
+          "description": "Our cookies have a shelf life of two periods:",
+          "table": {
+            "headers": ["Lifetime of Cookies", "Details"],
+            "rows": [
+              [
+                "Session",
+                "Temporary cookies are stored only while the visitor's browser is open and are deleted once the browser is closed."
+              ],
+              [
+                "Persistent",
+                "Cookies that remain on visitor's device until they expire, or visitor delete them. They remember visitor's preferences for future visits."
+              ]
+            ]
+          }
+        },
+        "point5": {
+          "title": "2.5 What Types of Cookies Does Enjaz Use?",
+          "description": "Organization uses the following cookie types:",
+          "table": {
+            "headers": ["Type of Cookies", "Details"],
+            "rows": [
+              [
+                "Necessary Cookies",
+                "These essential cookies are necessary to facilitate your navigation Organization's Site and utilize their features. Without these cookies, services that have been requested by the visitor, such as online and mobile banking, cannot be provided."
+              ],
+              [
+                "Functionality Cookies",
+                "Functionality cookies enable Organization's Sites to remember visitor's preferences (such as language settings) from previous visits, and offer enhanced, personalized features. They can keep track of your progress when you are completing online application forms and can be used to provide services you've asked for."
+              ],
+              [
+                "Performance Cookies",
+                "The cookies gather data on visitor interactions with a Site, such as the most frequently visited pages and the presence of error messages. These cookies do not capture any personal identifying information about visitors. The information collected by these cookies is aggregated and anonymized."
+              ],
+              [
+                "Targeting Cookies",
+                "These cookies track visitor's Site visits to provide personalized and targeted ads to make it more relevant to you. They can be stored on visitor's device during their visit and recognized by other sites to display tailored ads from Organization and third parties. While these cookies monitor visitor's browsing activity, the data collected remains anonymous. You can control your cookies preferences through your browser settings. For detailed guidance on managing and disabling cookies, please refer to Section 2.6."
+              ]
+            ]
+          }
+        },
+        "point6": {
+          "title": "2.6 How Can You Manage Cookies?",
+          "description": "When you access Organization's Site or utilize our apps, you have the flexibility to either enable all cookies or customize your preferences through your cookie settings. You can specifically choose the categories of cookies (excluding essential ones) that you wish to permit. You also have the option to adjust your web browser settings to either accept or decline all cookies or specific types of cookies. Most of our Sites can still be accessed with full functionality even if cookies are disabled in your web browser. However, disabling necessary cookies may prevent you from utilizing certain services on your device. Instructions on managing and disabling cookies are typically available in the privacy or help section of your browser's Site. If you wish to disable cookies on multiple devices or browsers, you will need to disable cookies individually on each device and browser. Discover methods for controlling and disabling cookies on commonly used browsers:",
+          "listItems": [
+            "Google Chrome",
+            "Microsoft Edge",
+            "Mozilla Firefox",
+            "Microsoft Internet Explorer",
+            "Apple Safari"
+          ]
+        },
+        "point7": {
+          "title": "Changes to this Policy",
+          "description": "We reserve the right to update this policy periodically as required. Any modifications will be reflected in this document."
+        },
+        "point8": {
+          "title": "Using Your Personal Data",
+          "description": "You can access details regarding the collection and utilization of your personal information in our Privacy Policy, available here https://enjaz.com/privacy-policy Privacy Policy "
+        },
+        "point9": {
+          "title": "Contact Us and Our Data Protection Officer:",
+          "description": [
+            "If you have any questions, concerns, or requests regarding this Cookies Policy, please contact us at:",
+            "Enjaz Head Office Address : 8229 Al-Mutamarat District, King Fahd Road, Riyadh 3952 - 12711, Kingdom of Saudi Arabia",
+            "Phone: 800 5000 300",
+            "WhatsApp: 800 5000 300",
+            "Email: dataprotectionoffice@enjaz.com"
+          ]
+        }
+      }
+    },
+    "periodicReview": {
+      "title": "Periodic Review of this Policy",
+      "description": "This policy will be reviewed every 3 years from the date of acceptance and sign off, or as deemed necessary."
+    }
+  },
+  "TermsAndConditionsPage": {
+    "pageTitle": "Terms and Conditions",
+    "PageDate": "Last Updated: October 31, 2023",
+    "section1": {
+      "title": "These terms and conditions are an integral part of using the Enjaz Company's application."
+    },
+    "section2": {
+      "title": "By subscribing as a client of Enjaz, you agree to comply with the following terms and conditions."
+    },
+    "section3": {
+      "point1": {
+        "description": "The user acknowledges and agrees to all terms and conditions of using internet and phone banking services, and to use the Enjaz application only as specified in this agreement. The user also agrees to receive promotional and educational messages through the application. The company will not be liable for any loss, cost, or expense incurred by the user or any other party due to any breach or violation of this agreement."
+      }
+    },
+    "section4": {
+      "title": "Account Monitoring",
+      "point1": {
+        "description1": "The user agrees to monitor any accounts held with the company to ensure compliance with relevant regulations and to pay any fees that may arise from using or monitoring these services."
+      },
+      "point2": {
+        "title": "1.Services",
+        "description": "The Enjaz application provides the following services:",
+        "listItems": [
+          "Transfers between accounts within Enjaz.",
+          "Bill payments for public and private services.",
+          "Transfers to local bank accounts.Transfers to local bank accounts.",
+          "Adding new beneficiaries.",
+          "Modifying or deleting beneficiary details.",
+          "The application also supports international transfers via Enjaz Easy, Transfast, SWIFT, and Western Union."
+        ]
+      },
+      "point3": {
+        "title": "2.Transfers and Bill Payments: ",
+        "description1": "When the user instructs Enjaz to transfer funds or pay a bill through the application, the company will execute the instructions by withdrawing the specified amount from the user’s account, provided there are sufficient funds. The company is not obligated to execute withdrawal instructions if there are insufficient funds.",
+        "description2": "In electronic payments, the amount is withdrawn from the user's account on the same day it is electronically transferred to the beneficiary. In most cases, this date is the one specified by the user when the instructions were provided. If funds are insufficient on the requested transfer date, or if there are insufficient funds to pay a bill or deduct any amount from the account, the company will notify the user via email that the transaction has been declined."
+      },
+      "point4": {
+        "title": "3.Application Costs:",
+        "description": "The user is responsible for all phone and internet charges incurred in connecting their device to the Enjaz application. No fees are charged for connecting the device to the private network. Separate fees may apply for additional services requested through the Enjaz application, and the user will be notified of the cost of each additional service."
+      },
+      "point5": {
+        "title": "4.Confidentiality:",
+        "description": [
+          "a . The user has the right to confidentiality, and the company will not disclose specific information about the user's accounts except to company employees or correspondents, unless:",
+          "• The user consents to sharing information with others.",
+          "• The user identifies the company regarding credit matters.",
+          "• The company closes the user's account due to unacceptable management by the user.",
+          "• Information is requested by law or government authorities, including the Saudi Central Bank.",
+          "b .With the user's consent, the company may share information with other institutions to provide services deemed important by the company.",
+          "c .If the user does not wish to receive marketing offers, they must notify the company to exclude their name from the customer list used for this purpose.",
+          "d .The user agrees that the company may upload certain information, including customer identitydata, to the user’s computer or another access system."
+        ]
+      },
+      "point6": {
+        "title": "5.Company and Third-Party Provider Liability:",
+        "description": [
+          "The Enjaz application uses proprietary software, and providing the user with the software grants a non-exclusive license to use it for specified purposes only. The user must not decompile, disassemble, copy, modify, or reverse engineer the software or allow others to do so. The application allows access to company and third-party services and information, which are proprietary. The user may only use the application for personal, non-commercial purposes and must not reproduce or sell any information provided by the application.",
+          "It is understood by the user that the company does not provide any information or data regarding the use of this network, any communication programs, or delivery methods determined by the company concerning their quality, timing, performance, accuracy, reliability, or continued availability. The company does not guarantee that the operating software or any communications or delivery systems will meet any specifications provided by the company or be free from errors and issues."
+        ]
+      },
+      "point7": {
+        "title": "6.Prohibition of Other Uses:",
+        "description": [
+          "a . The company agrees to make reasonable efforts to ensure the Enjaz application operates optimally. The company will only act on instructions received through the application that have been successfully delivered. The company is not liable for any communication issues that may affect the accuracy or timing of messages sent by the user.",
+          "b .The company is not responsible for any losses or delays in sending instructions via the electronic system unless the company acts with gross negligence or willful misconduct. The company will not be liable if the user provides incorrect instructions or fails to provide complete payment instructions in a timely manner.",
+          "c .Information received from the company or other providers is considered reliable based on best efforts but is not guaranteed. The company or any provider is not liable for the accuracy, completeness, availability, or timeliness of such information or for any investment or other decision made using this information.",
+          "d .The company or any other information provider is not responsible for any computer viruses or related issues that may arise from information services or from the user's personal computer. The company also does not bear any responsibility in case of hacking or unauthorized access."
+        ]
+      },
+      "point8": {
+        "title": "7.Customer Service:",
+        "description": " Users may contact customer service for assistance with the Enjaz application at ( 8 0 0 5 0 0 0 3 0 0 ) o r v i a e m a i l a t (enjazcustomercare@enjaz.com), please note that emails sent over the internet may not be secure. The company may record conversations between its employees and the user for quality control purposes, to ensure the accuracy of information provided, and to verify that user instructions are being followed. Users can also contact customer service through Enjaz's social media platforms, including Platform X, Facebook, and Instagram. Users can request a copy of the terms and conditions electronically or in paper format."
+      },
+      "point9": {
+        "title": "8.User Identity Confidentiality:",
+        "description": "Users must protect their identity information, registration details, username, and password. If the user suspects unauthorized access, they must immediately notify the company via phone, which is the quickest method."
+      },
+      "point10": {
+        "title": "9.Independence of Terms:",
+        "description": "If any term of these internet and phone banking services terms becomes invalid, illegal, or unenforceable for any reason, the remaining terms will remain in effect."
+      },
+      "point11": {
+        "description": "These terms and conditions are governed by the laws and regulations of the Kingdom of Saudi Arabia."
+      }
+    }
+  },
+  "PrivacyPolicyPage": {
+    "pageTitle": "Privacy Policy",
+    "PageDate": "Last Updated: October 31, 2023",
+    "section1": {
+      "title": "1 . Overview",
+      "points": {
+        "point1": {
+          "title": "1 .1 Introduction",
+          "description": "This Privacy Policy (together with our Terms and Conditions and any other documents referred to on it) describes how Enjaz Payment Services Company, a Saudi Closed Joint Stock Company (hereinafter referred to as 'Organization', 'we', 'us', or 'our'), the operator of this website or mobile app or service, collects, uses, discloses, and protects your Personal Data and respects the privacy of Enjaz channel users (herein referred to as 'you' and 'your'). We are committed to ensuring the privacy and security of your Personal Data and comply with the applicable data protection laws in Saudi Arabia, including but not limited to the Saudi Arabia Personal Data Protection Law (KSA PDPL), the Data Management & Personal Data Protection Standards of the National Data Management Office (NDMO), and the Saudi Arabian Monetary Authority (Saudi Central Bank or SAMA) regulations."
+        },
+        "point2": {
+          "title": "1.2 Purpose",
+          "description": "The purpose of this Privacy Policy is to inform Data Subjects about the types of Personal Data we collect, how we use and protect that data, and their rights regarding their Personal Data. We aim to provide transparency about our data handling practices and ensure Data Subjects are fully informed about how their Personal Data is processed when they interact with us through our various channels and customer touch points. We process your data in an appropriate and lawful manner, in accordance with the applicable laws and regulations to which Enjaz is subject, including the Saudi Personal Data Protection Law, Royal Decree No. M/148 dated 5/9/1444H, herein referred to as “PDPL”."
+        },
+        "point3": {
+          "title": "1.3 Objective",
+          "description": [
+            "The objective of this Privacy Policy is to clearly outline how Enjaz handles Personal Data to ensure it is processed in a lawful, fair, and transparent manner.",
+            " We aim to provide clear and concise information about our data processing practices, ensuring Data Subjects understand how their Personal Data is collected, used, and protected",
+            " This policy is designed to foster trust and confidence by demonstrating our commitment to privacy and compliance with relevant data protection regulations.",
+            "It also aims to inform Data Subjects of their rights concerning your Personal Data and how you can exercise these rights."
+          ]
+        },
+        "point4": {
+          "title": "1.4 Scope",
+          "description": "This Privacy Policy applies to all Personal Data collected and processed by Enjaz through our websites, mobile applications, branches, customer service centers, and any other channels or touch points where we collect your Personal Data. It covers the processing activities related to the collection, storage, use, disclosure, and protection of Personal Data, ensuring compliance with the KSA PDPL, NDMO standards and SAMA regulations. This policy applies to all customers, visitors, and users of our services, as well as any third parties who interact with us in connection with the processing of Personal Data."
+        },
+        "point5": {
+          "title": "1.5. Acronyms and Abbreviations",
+          "table": {
+            "headers": ["Term", "Definition"],
+            "rows": [
+              [
+                "Customer Care",
+                "The support, assistance, and advice provided by a company to its customers both before and after they buy or use its products or services"
+              ],
+              [
+                "Electronic Services",
+                "Any of the services provided by Enjaz in connection with all Enjaz websites and mobile app."
+              ],
+              [
+                "Personal Data",
+                "Any data, regardless of its source or form, that may lead to identifying an individual specifically, or that may directly or indirectly make it possible to identify an individual, including name, personal identification number, addresses, contact numbers, license numbers, records, personal assets, bank/payment service providers and credit card numbers, photos and videos of an individual, and any other data of personal nature"
+              ],
+              [
+                "Sensitive Personal Data",
+                "Personal Data revealing racial or ethnic origin, or religious, intellectual or political belief, data relating to security criminal convictions and offenses, biometric or Genetic Data for the purpose of identifying the person, Health Data, and data that indicates that one or both of the individual’s parents are unknown"
+              ],
+              [
+                "Data Minimization",
+                "Refers to the principle of limiting data collection and retention to the bare minimum necessary to accomplish a given purpose."
+              ],
+              [
+                "Data Breach",
+                "A breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed."
+              ],
+              [
+                "Personal Data Breach",
+                "Any incident that leads to the Disclosure, Destruction, or unauthorized access to Personal Data, whether intentional or accidental, and by any means, whether automated or manual."
+              ],
+              [
+                "Data Subject",
+                "Data subject refers to the individual the personal data relates to."
+              ],
+              [
+                "Personal Data Processing",
+                "Any operation carried out on Personal Data by any means, whether manual or automated, including collecting, recording, saving, indexing, organizing, formatting, storing, modifying, updating, consolidating, retrieving, using, disclosing, transmitting, publishing, sharing, linking, blocking, erasing and destroying data."
+              ],
+              [
+                "Data Subject Consent",
+                "Consent of the data subject refers to any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of their personal data."
+              ],
+              [
+                "Credit Data",
+                "Information that is used to determine a customer’s creditworthiness, such as payment history and credit utilization."
+              ],
+              [
+                "Data Protection Officer, “DPO”",
+                "A DPO is an appointed expert on data protection that informs and advises on applicable data protection laws and regulations, monitors compliance with applicable laws and regulations, and acts as a point of contact with relevant regulatory authorities."
+              ],
+              [
+                "Data Controller",
+                "A natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data. Where the purposes and means of such processing are determined by EU or member state law, the controller or the specific criteria for its nomination may be provided for by EU or member state law."
+              ],
+              [
+                "Know Your Customer, “KYC”",
+                "Standards designed to protect financial institutions against fraud, corruption, money laundering and terrorist financing."
+              ],
+              [
+                "Transactions",
+                "Refers to an exchange or transfer of goods, services, or funds."
+              ],
+              [
+                "Customer Care",
+                "The support, assistance, and advice provided by a company to its customers both before and after they buy or use its products or services."
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "section2": {
+      "title": "2. Policy Statement",
+      "points": {
+        "point1": {
+          "title": "2.1. Collection of Your Personal Data",
+          "description": "Personal Data means any and all information which an individual can be identified with and does not include any data where identity has been removed (namely, anonymous data). Upon registration with us, it is necessary that we collect your Personal Data in order to comply with legal obligations such as KYC and other regulatory requirements. By understanding your background and needs, we can treat you fairly, provide you with the services that best match your requirements, offer you appropriate and relevant information and process your requests in a fair and efficient manner.We will collect, use, store and transfer different elements of Personal Data about you through various channels, including when:",
+          "listItems": [
+            "You apply for our products or services, visit our website, use our mobile application, and communicate, make a request or provide feedback with us electronically or in person, or through third-party sources as permitted by applicable laws and regulations.",
+            "You open an account or perform transactions and/or services provided by Enjaz, including but not limited to international transfers, local transfers (between accounts and to local bank accounts/payment service providers), bill payments, adding beneficiaries and editing beneficiary details, and any other stipulated in the terms and conditions.",
+            "You seek information from our Customer Care concerning inquiries, complaints, and disputes.",
+            "You provide account information such as your personal details or information concerning your identity.",
+            "You use your login credentials to access your account through Enjaz website or mobile application.",
+            "We conduct necessary investigations i.e., due diligence checks, and Anti-money Laundering and Counter-Terrorism Financing (AML/CTF) checks, and obtain information that we need to support our regulatory obligations, e.g., information about transaction details, and detection of any suspicious and unusual activities.",
+            "Subscribe to our service or publications.",
+            "Enter a competition, promotion or survey."
+          ]
+        },
+        "point2": {
+          "title": "The types of Personal Data we may collect include:",
+          "listItems": [
+            "Full name, gender, date and place of birth, country of residence, contact details such as home, work or delivery address, proof of address, email address, telephone numbers, identification information such as photo ID, passport information, National ID/Iqama card, and nationality.",
+            "Financial and banking information.",
+            "Employment and income details such as annual income, net worth, source of funds, anticipated account, turnover, bank account, bank statements, payment card details.",
+            "Transaction history and account activity such as details about payments to and from you, information on products and services you have purchased from us, deposit methods, purpose of transactions with us.",
+            "Records of communications to or from us.",
+            "Information obtained from credit reporting agencies and other financial institutions.",
+            "Technical information includes your internet protocol (IP) address, login data to our website/application, browser type and version, time zone setting and location, operating system, platform, and other technology on the devices you use to access this website. We use this information for system administration or our commercial purposes.",
+            "Profile data includes your username and password, purchases or orders made by you, your interests, preferences, feedback, survey responses.",
+            "Usage information includes information about how you use our website, application, and assorted services.",
+            "Marketing and communications information includes your preferences in receiving marketing from us and any third-party companies on our behalf and your communication preferences. Third parties or publicly available sources. We may receive Personal Data about you from various third parties and public sources as set out below:",
+            "Marketing and communications information includes your preferences in receiving marketing from us and any third-party companies on our behalf and your communication preferences. Third parties or publicly available sources. We may receive Personal Data about you from various third parties and public sources as set out below:",
+            "Technical data from analytics providers such as Google;",
+            "Contact, financial and transaction data from payment services providers; Identity and contact data for KYC purposes from individual and publicly available sources, for any consumer-reporting agencies etc."
+          ]
+        },
+        "point3": {
+          "title": "The types of Personal Data we may collect include:",
+          "listItems": [
+            "Full name, gender, date and place of birth, country of residence, contact details such as home, work or delivery address, proof of address, email address, telephone numbers, identification information such as photo ID, passport information, National ID/Iqama card, and nationality.",
+            "Financial and banking information.",
+            "Employment and income details such as annual income, net worth, source of funds, anticipated account, turnover, bank account, bank statements, payment card details.",
+            "Transaction history and account activity such as details about payments to and from you, information on products and services you have purchased from us, deposit methods, purpose of transactions with us.",
+            "Records of communications to or from us.",
+            "Information obtained from credit reporting agencies and other financial institutions.",
+            "Technical information includes your internet protocol (IP) address, login data to our website/application, browser type and version, time zone setting and location, operating system, platform, and other technology on the devices you use to access this website. We use this information for system administration or our commercial purposes.",
+            "Profile data includes your username and password, purchases or orders made by you, your interests, preferences, feedback, survey responses.",
+            "Usage information includes information about how you use our website, application, and assorted services.",
+            "Marketing and communications information includes your preferences in receiving marketing from us and any third-party companies on our behalf and your communication preferences. Third parties or publicly available sources. We may receive Personal Data about you from various third parties and public sources as set out below:",
+            "Technical data from analytics providers such as Google;",
+            "Contact, financial and transaction data from payment services providers; Identity and contact data for KYC purposes from individual and publicly available sources, for any consumer-reporting agencies etc."
+          ],
+          "description": [
+            "Sometimes, we may collect and use your information even if you are not our customer: For any information in this category, we will adhere to the principles outlined in this Policy. This may occur, for example, if you are a customer, beneficiary, cardholder, or representative of one of our customers, or if you are in the process of applying for a product or service with us. Additionally, your personal circumstances might significantly impact our customer's ability to fulfill their obligations to us, necessitating our consideration of your information. We may also collect your information if a customer makes a payment to you or engages in a transaction with you, requiring us to process the payment or transaction. Furthermore, if we acquire a new business or the assets of another business, we might obtain some of your information, as detailed below."
+          ]
+        },
+        "point4": {
+          "title": "2.2. Use of Your Personal Data",
+          "listItems": [
+            "We will only use your Personal Data when you have provided your consent or when Enjaz has a lawful basis or is required by the applicable laws to do so.",
+            "We use the Personal Data we collect to provide our customers with products and services (i.e., international transfers, transfers between accounts, transfers to local bank accounts/payment service providers, bill payments, etc.), to manage our business and customer relationships, as stipulated in our Terms and Conditions, and to offer an enriched and enhanced customer experience.",
+            "We make appropriate use of your Personal Data to manage your transactions and respond to your requests.",
+            "We use your Personal Data to deliver more relevant products and services, conduct your instructions, and provide online product and services of Enjaz.",
+            "We will use your Personal Data to meet our compliance obligations, comply with laws, regulations, and regulatory requirements, and share with regulators when necessary.",
+            "We use Personal Data to protect public interest, detect and prevent financial crimes including fraud, financing for terrorism, and money laundering or other illegal activities.",
+            "Where we have your consent, we may use your Personal Data such as your email address, mobile number, and email address to deliver directly to you marketing and promotional advertisements and we will provide updates on exclusive deals and offers that might interest you on our website.",
+            "Information about criminal convictions and offences.",
+            "We also collect, use and share aggregated data such as statistical or demographic data. Non-Personal Data may be derived from your Personal Data but is not considered Personal Data for the purposes of law as such does not directly or indirectly reveal your identity in any way whatsoever. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific website and the Electronic Services feature. However, if we combine or connect aggregated data with your Personal Data in a way that, either directly or indirectly, identify you we treat the combined data as Personal Data which will be used in accordance with this Privacy Policy."
+          ]
+        },
+        "point5": {
+          "title": "2.4. Lawful Basis for Processing",
+          "description": "We may use your Personal Data for the following purposes, based on the following lawful basis:",
+          "subTitles": [
+            {
+              "title": "2.4.1 To Enter into or Perform Our Agreement:",
+              "description": [
+                "- To provide services to you in accordance with the agreement(s) you or your organization may have with us, for record-keeping and compliance procedures.",
+                "- To provide you or your organization with financial products and other services available via Enjaz and/or to deal with any requests or inquiries you may have.",
+                "- To respond to requests for information from you and to follow up afterwards to see if any further assistance is required."
+              ]
+            },
+            {
+              "title": "2.4.2 To Comply with Our Legal Obligations:",
+              "description": [
+                "- To comply with any applicable laws in any country we operate in or provide a service.",
+                "- For the purposes of preventing and detecting money-laundering, terrorism, fraud or other crimes and/or abuses of our services.",
+                "- To comply with any legal, regulatory or good practice requirement and to fulfil our obligations under any reporting agreement entered with any tax authority or revenue services from time to time."
+              ]
+            },
+            {
+              "title": "2.4.3 To Pursue Our Legitimate Interests:",
+              "description": [
+                "For our own administrative and operational procedures.",
+                "For statistical purposes and for market research and product analysis and to develop and improve our products and services.",
+                "To carry out, monitor and analyze our business or operations including the activities set out in this Policy.",
+                "To enforce or apply any agreement and/or to protect our (or others’) property or rights and to defend any potential claim."
+              ]
+            },
+            {
+              "title": "2.4.4 For Marketing Purposes with Your Consent:",
+              "description": [
+                "We may also process your Personal Data for the following purposes (after obtaining your explicit consent where such is legally required) in accordance with your preferences:",
+                "* To communicate with you through the channels you have approved to keep you up to date on latest developments, announcements and other information about our services, products and technologies.",
+                "* To conduct client surveys, marketing campaigns, market analysis or promotional activities. ",
+                "* To collect information about your preferences, to create a user profile to personalize and foster the quality of our communication and interaction with you (for example, by way of newsletter tracking or website analytics).",
+                "* To conduct monitoring by us or any other person on our behalf using various methods, including:",
+                "a) the use of intelligent automated monitoring tools.",
+                "b) through random monitoring of systems, for example systematically via electronic communication recording tools.",
+                "c) specific monitoring of systems for example in relation to investigations, regulatory requests, subject access requests, litigation, arbitration or mediation.",
+                "d) data tracking, aggregation and analysis tools that pull data from various disparate data sources to draw linkages and/or detect patterns, interactions or preferences for analysis (including predictive analysis).",
+                "e) using other similar monitoring technology that may become available from time to time.",
+                " Where legally required, we will not use your Personal Data for taking any automated decisions affecting you or creating profiles other than described above. We will use your Personal Data for the purposes for which we collect it, unless we reasonably consider that we need to use it for another reason and that such reason is compatible with the original purpose and the law (in which case your knowledge or consent for use thereof is not required).If you wish to get an explanation as to how compatibility of the reason and the original purpose is determined, please contact us.If we need to use your Personal Data for an unrelated purpose, we will notify you accordingly and explain the legal basis which allows us to do so. Please note that we may process your Personal Data, where this is required or permitted by law."
+              ]
+            }
+          ]
+        },
+        "point6": {
+          "title": "2.5. Data Minimization",
+          "description": "Whenever and to the extent possible, we anonymize the data which we hold about you when it is no longer necessary to identify you from the personal information which we hold about you."
+        },
+        "point7": {
+          "title": "2.6. Financial Crime Prevention",
+          "description": "To comply with our legal obligations and protect against financial crimes, such as money laundering and fraud, we may conduct due diligence checks and request additional information from you. This may include verifying your identity, conducting background checks, and sharing your Personal Data with relevant authorities, as permitted by applicable laws and regulations."
+        },
+        "point8": {
+          "title": "2.7. Cross-border Data Transfers",
+          "description": "If we transfer your Personal Data to countries outside of the Kingdom of Saudi Arabia, some of our external third parties are based outside of the Kingdom of Saudi Arabia so processing of your Personal Data may involve a transfer of data outside of the Kingdom of Saudi Arabia on the permitted purposes. Please contact us if you want further information on the specific mechanism used by us when transferring your Personal Data."
+        },
+        "point9": {
+          "title": "2.8. Security of Personal Data",
+          "description": [
+            "Enjaz has a code of conduct that includes a section on confidentiality of information, which requires every employee, contractor, or third-party vendor to keep business and internal information obtained in the course of their work at Enjaz confidential. Whilst we have implemented such measures, we cannot completely guarantee the security of your information; any transmission by you is at your own risk. You are responsible for maintaining the confidentiality of any password or account details.",
+            " Where you choose to click a link to any of the third-party websites, please note that those websites have their own privacy policies and we do not accept any responsibility or liability for their policies or their security of your Personal Data on third-party sites. Please check their policies before you submit any Personal Data to those websites."
+          ]
+        },
+        "point10": {
+          "title": "2.9. Personal Data Breach",
+          "description": "We have put in place procedures to deal with any suspected Personal Data breach and will notify you and any applicable regulator of any breach where we are legally required to do so. If you require further information on how we deal with a data breach, please contact us as stated below."
+        },
+        "point11": {
+          "title": "2.10. Retention of Personal Data",
+          "description": "We retain your Personal Data for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by applicable laws and regulations. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our legal agreements and policies. When Personal Data is no longer required, we securely dispose of, anonymize or de-identify it."
+        },
+        "point12": {
+          "title": "2.11. Joint Accounts",
+          "description": "If you hold a joint account with another individual(s), please note that we may disclose account information and transaction details to all joint account holders. Each joint account holder is responsible for ensuring that they have the necessary authority and consent to provide and access Personal Data related to the joint account."
+        },
+        "point13": {
+          "title": "2.12. Authorized Representative(s)",
+          "description": "We may collect and process Personal Data about your authorized representative(s) to identify and provide our services if you have authorized another person to act on your behalf in relation to your accounts or transactions with us. It is your responsibility to ensure that you have your representative’s consent to provide us with their Personal Data."
+        },
+        "point14": {
+          "title": "2.13. Your Rights and Choices",
+          "description": [
+            "Under certain circumstances, you may have certain rights in relation to your Personal Data. For example, you may have:",
+            "* The right to know and be informed about our contact details, the exact reason your Personal Data is being collected, the methods being used for Personal Data collection, and whether this collected Personal Data will be shared with third parties.",
+            "* The right to access your Personal Data from us and obtain a copy of it in a clear and readable format, in conformity with the content of the records.",
+            "* The right to request correction of, or update any Personal Data collected by Enjaz if it is incomplete, inaccurate, or obsolete.",
+            "* The right to request the destruction of your Personal Data collected by Enjaz. Noting that the reasons can range from the individual rescinding his/her consent for data collection to the data no longer serving the purpose for which it was initially collected. However, Enjaz may retain such information in accordance with the Policy and applicable laws.",
+            "* The right to object to or restrict certain processing activities of your Personal Data and to withdraw your consent where required.",
+            "Enjaz is required to ensure that you are appropriately informed about these rights and establish dedicated channels for you to properly exercise them. We may need to request specific information from you to help us confirm your identity and ensure your right to access your Personal Data (or to exercise any of your other rights). This is a security measure to ensure that your Personal Data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response",
+            "We try to respond to all legitimate requests within one month of receipt. Occasionally, it may take us longer than a month if your request is particularly complex or if you have made a number of requests. In this case, we will notify you and keep you updated. If you believe that any of your Personal Data is inaccurate or incomplete and to exercise any of these rights or for any privacy-related inquiries, please contact us using the details provided below."
+          ]
+        },
+        "point15": {
+          "title": "2.14. Consent Withdrawal",
+          "description": "While we take reasonable steps to protect your Personal Data, you need to act appropriately to safeguard your information, such as keeping your login credentials secure and promptly notifying us of any unauthorized access or use of your accounts."
+        },
+        "point16": {
+          "title": "2.15. Your Responsibilities",
+          "description": "While we take reasonable steps to protect your Personal Data, you need to act appropriately to safeguard your information, such as keeping your login credentials secure and promptly notifying us of any unauthorized access or use of your accounts."
+        },
+        "point17": {
+          "title": "2.16. Minor’s Privacy",
+          "description": [
+            "Our services are not designed for individuals under the age of eighteen (18) as such if you are resident in the Kingdom of Saudi Arabia and under the age of eighteen (18) or are a resident elsewhere and you are not yet at the relevant age of majority in the jurisdiction in which you reside, we are not permitted to contract with you directly. Where necessary by local legislation, by agreeing to this Privacy Policy, your parent or legal guardian acknowledges and consents to the terms of this Privacy Policy on your behalf. If we seek your consent to process your Personal. Data for a specific purpose in accordance with this Privacy Policy, such consent must be granted on your behalf by your parent or legal guardian.",
+            "It is important to mention that we do not knowingly collect Personal Data from minors without the consent of their parents or legal guardians. If you believe that we have inadvertently collected the Personal Data of a minor, please contact us immediately so that we can act appropriately to delete the relevant Personal Data."
+          ]
+        },
+        "point18": {
+          "title": "2.17. Use of CCTV and Surveillance",
+          "description": "For security and safety purposes, we may use closed-circuit television (CCTV) cameras and surveillance systems on our premises. The recorded footage may be used to monitor and investigate security incidents, prevent fraud, and ensure the safety of our customers, employees, and assets."
+        },
+        "point19": {
+          "title": "2.18. Marketing Communications",
+          "description": [
+            "Where we have a lawful basis to do so, as stated above, or with your consent, we may send you marketing communications about our products, services, promotions, and events. Our marketing communications may include personalized and non-personalized materials, where the personalized materials will be specifically tailored based on the information we know about you.Where we have a lawful basis to do so, as stated above, or with your consent, we may send you marketing communications about our products, services, promotions, and events. Our marketing communications may include personalized and non-personalized materials, where the personalized materials will be specifically tailored based on the information we know about you.",
+            "You can withdraw your consent or opt out of receiving marketing communications at any time through one of these channels: -"
+          ],
+          "listItems": [
+            "Visiting one of our branches",
+            "Sending us an email at dataprotectionoffice@enjaz.com."
+          ]
+        },
+        "point20": {
+          "title": "2.19. Social Media",
+          "description": "We may engage with you on social media platforms to provide information, respond to inquiries, and promote our products and services. Please note that any information you post or disclose on our social media pages may be visible to the public, and you should exercise caution when sharing Personal Data or Sensitive Personal Data, as defined in the Saudi Arabia Personal Data Protection Law."
+        },
+        "point21": {
+          "title": "2.20. Monitoring and Recordings of Calls and Electronic Communications",
+          "description": "To ensure quality control, assurance, training, and compliance purposes, we may monitor and record telephone calls, including customer service calls and calls with our representatives as well as record electronic communications, such as emails and instant messages, exchanged between you and our representatives. We will notify you if a call is being recorded, and the recorded calls will be overseen in accordance with applicable data protection laws and regulations. These measures are taken to ensure the security of our systems, prevent fraud, and maintain regulatory compliance."
+        },
+        "point22": {
+          "title": "2.21. Cookies",
+          "description": [
+            "A cookie is a small file that is placed on your computer’s hard drive. Its functions include storing your login and session statuses, recording your user preferences, and analyzing web traffic. Apart from the data that you elect to disclose and share with us, we cannot access your computer or any other information about you with cookies. Although most browsers automatically accept cookies, you can amend your browser settings to disable cookies. You can control your cookies from your browser menu. You can easily remove any cookies that have been created in the cookie folder of your browser. Depending on the type of browser that you use, please see the steps to follow for deleting and/or disabling your cookies  http://www.allaboutcookies.org/manage-cookies/",
+            "Please note, this may however prevent you from fully experiencing the website as it was intended."
+          ]
+        },
+        "point23": {
+          "title": "2.22. Third-Party Links",
+          "description": "Our website or mobile applications may contain links to third-party websites or services that are not operated or controlled by us. This Privacy Policy does not apply to such third-party websites or services, and we are not responsible for their privacy practices. We encourage you to review the privacy policies of those third parties before providing any Personal Data to them."
+        },
+        "point24": {
+          "title": "2.23. Updates to this Privacy Policy",
+          "description": "We reserve the right to modify or update this Privacy Policy from time to time to reflect changes in our privacy practices, legal obligations, or as required by the applicable data protection laws and regulations. We will provide notice of any material changes by posting the updated Privacy Policy on our website or by other appropriate means. We encourage you to review this Privacy Policy periodically for any updates. The revised Privacy Policy will be effective as of the updated effective date stated at the beginning of the Policy."
+        },
+        "point25": {
+          "title": "2.24. Indemnification",
+          "description": "You agree to defend, indemnify, and hold harmless Enjaz, its subsidiaries, and their respective directors, officers, employees, and agents from and against all claims and expenses, including attorneys' fees, arising out of your violation of this Privacy Policy or misuse of the services or Enjaz’s website, including such violation or misuses conducted by your employee or agent, if applicable."
+        },
+        "point26": {
+          "title": "2.25. Governing Law and Jurisdiction",
+          "description": "This Privacy Policy shall be governed by and construed in accordance with the applicable laws of Saudi Arabia. Any disputes arising out of or relating to this Privacy Policy shall be subject to the exclusive jurisdiction of the courts of Saudi Arabia."
+        },
+        "point27": {
+          "title": "2.26. Contact Us and Our Data Protection Officer",
+          "description": [
+            "If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at:",
+            "Enjaz",
+            "Head Office Address : 8229 Al-Mutamarat District, King Fahd Road, Riyadh 3952 - 12711,",
+            "Kingdom of Saudi Arabia",
+            "Phone: 800 5000 300",
+            "Email: dataprotectionoffice@enjaz.com",
+            "Any enquiries with regards to the use of your Personal Data should be sent to the above emailaddress.Enjaz is committed to protecting your privacy, addressing any concerns, and resolving any issues related to the processing of your Personal Data and will oversee your Personal Data with utmost care and respect."
+          ]
+        }
+      }
+    },
+    "section3": {
+      "title": "3. Periodic Review of this Policy",
+      "points": {
+        "point1": {
+          "description": "This policy will be reviewed every 3 years from the date of acceptance and sign off, or as deemed necessary."
+        }
+      }
+    }
+  },
+  "TermsOfUsePage": {
+    "titlePage": "Terms of Use",
+    "datePage": "Last Updated: May 31, 2025",
+    "section1": {
+      "title": "WELCOME TO OUR SITE",
+      "points": {
+        "point1": {
+          "description": [
+            "By accessing this web site, you agree to be bound by and comply with the following terms and conditions. If you do not agree to these terms and conditions, please do not access this site and you should not review information or obtain Information or services from this site. The contents of this site should not be regarded as complete or up to date. The following expressions shall have the following meaning unless otherwise clearly provided:"
+          ],
+          "listItems": [
+            "Enjaz Payment Services Company– A Saudi Closed Joint Stock Company established under the laws of the Kingdom of Saudi Arabia",
+            "The Site: the web site belonging to Enjaz Payment Services Company or related web sites.",
+            "The Information / The Services: any of the information, and/or services provided by Enjaz Payment Services Company",
+            " Visitor / User: any person who accesses the Site and views or downloads any or all its information or use the Services provided hereto by any means. Therefore:",
+            "Modifying or deleting beneficiary details.",
+            "The application also supports international transfers via Enjaz Easy, Transfast, SWIFT, and Western Union."
+          ]
+        },
+        "point2": {
+          "title": "1. Acceptance of Agreement",
+          "description": "You agree to the terms and conditions outlined in this Terms of Use Agreement ('Agreement') with respect to the Site. This Agreement besides the Privacy Policy and Secured Internet Enjaz Payment Services Company Statement constitutes the entire and only agreement between us and you, and supersedes all prior or contemporaneous agreements, representations, warranties and understanding with respect to this Site, the content, information, or services provided by or through the Site, and the subject matter of this Agreement. This Agreement may be amended at any time from time to time by us without specific notice to you. The latest Agreement will be posted on the Site, and you should review thisAgreement prior to using the Site."
+        },
+        "point3": {
+          "title": "2. Copyright",
+          "description": "The content, organization, graphics, design, compilation, magnetic translation, digital conversion, and other matters related to the Site are protected under applicable copyrights, trademarks and other proprietary including but not limited to intellectual property rights. The copying, redistribution, use or publication by you of any such matters or any part of the Site or from other sites, except as allowed by the applicable laws in Saudi Arabia, is strictly prohibited. You do not acquire ownership rights to any content, document or other materials viewed through the Site. The posting of information or materials on the Site does not constitute a waiver of any right in such information and materials."
+        },
+        "point4": {
+          "title": "3. Trademarks, Trade Names, Domain Names and Logos",
+          "description": "Enjaz Payment Services Company related logos, the Trade Names, and the Domain names ( https://Enjaz.BankAlbilad.com ) and others, are either Trade Names, trademarks or registered trademarks and a sole property of Enjaz Payment Services Company. Other Trademarks, Trade Names, Domain Names and Logos (if exist) mentioned on the Site and not related to Enjaz Payment Services Company are not a property Enjaz Payment Services Company, yet they are properties of their respective owners."
+        },
+        "point5": {
+          "title": "4. Limited Right to Use",
+          "description": "The viewing, printing, or downloading of any content, graphic, form or document from the Site grants you only a limited nonexclusive license for use solely by you for your own personal use and not for republication, distribution, assignment, sublicense, sale, preparation of derivative works or other use. No part of any content, form, or document may be reproduced in any form or incorporated into any information retrieval system, electronic or mechanical, other than for your personal use."
+        },
+        "point6": {
+          "title": "5. Editing, Adding, Deleting and Modification",
+          "description": "Enjaz Payment Services Company reserves the right in its sole discretion to edit or add or delete or modify the terms and conditions of this Agreement in a whole or part. Likewise, editing or adding or deleting or modifying any documents, information or other content appearing on the Site."
+        },
+        "point7": {
+          "title": "6. Indemnification",
+          "description": "If you access the Site or review information or obtain Information or services from this Site; You agree to indemnify, defend, and hold us and our partners, attorneys, staff and affiliates (collectively, 'Affiliated Partners') harmless from any liability, loss, claim, and expense, including reasonable attorneys' fees, related to your violation of this Agreement or use of the Site."
+        },
+        "point8": {
+          "title": "7. Nontransferable",
+          "description": "Your right to use the Site is not transferable. Any password or right given to you to obtain information or documents is not transferable."
+        },
+        "point9": {
+          "title": "8. Disclaimer and Limits",
+          "description": "The information or services from or through the site is provided 'as is', 'as available'. Consequently, in no event will Enjaz Payment Services Company be liable for any damages, including without limitation direct or indirect, special, incidental, or consequential damages, losses or expenses arising in connection with this site or use thereof or inability to use by any party, or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer viruses or line or system failure or based on breach of this agreement, breach of warranty, tort (including negligence), product and information liability or otherwise, even if Enjaz Payment Services Company, or its representative thereof, are advised of the possibility of such damages, losses or expenses. The negation of damages set forth above is a fundamental element of the basis of the bargain between Enjaz Payment Services Company and you."
+        },
+        "point10": {
+          "title": "9. Use of Information",
+          "description": "Enjaz Payment Services Company reserves the right and you authorize us, to use and assign all information regarding Site uses by you and all information provided by you in any manner consistent with our Privacy Policy."
+        },
+        "point11": {
+          "title": "10. Privacy Policy",
+          "description": "Our Privacy Policy, as it may change from time to time, is a part of this Agreement."
+        },
+        "point12": {
+          "title": "11. Your Responsibilities Safeguarding Payment Cards",
+          "subTitles": [
+            {
+              "title": "11.1 Safeguarding Payment Cards",
+              "description": "You will not permit any other person to use the Payment Cards and will at all times safeguard the Payment Cards and any personal identification number issued, keeping it under Your personal control."
+            },
+            {
+              "title": "11.2 Notification of Unauthorized Access",
+              "description": "You must notify Us immediately if You become aware of any disclosure of or access to Your Payment Card by any third party."
+            },
+            {
+              "title": "11.3 Updating Contact Details",
+              "description": "You are required to keep Your contact details up-to-date and shall immediately notify Us of any change in Your contact details by contacting Us in accordance with section 2.2 of the Agreement."
+            },
+            {
+              "title": "11.4 Provider Acceptance",
+              "description": "We shall not be responsible for any provider that refuses to accept the Payment Cards. We shall not be in any manner responsible for the goods or services that are provided to You, and You must contact the provider directly to resolve any issues with goods or services provided to You by a provider."
+            },
+            {
+              "title": "11.5 Prohibited Uses",
+              "description": "You are not permitted to use the Payment Cards for any illegal purpose, including the purchase of goods or services that are prohibited under the laws of the Kingdom of Saudi Arabia. If You use the Payment Cards for an illegal purpose, We shall have the right to cancel the Payment Cards and any Supplementary Cards, and You must pay all outstanding amounts immediately."
+            }
+          ]
+        },
+        "point13": {
+          "title": "12. Use of Third Party Platform and Security",
+          "subTitles": [
+            {
+              "title": "a) Device Security and Confidentiality",
+              "description": [
+                "You are solely responsible for maintaining the physical security of the Device and the confidentiality of:",
+                " The Device lock, PIN, Passcode, and other means to access the Third Party Platform;",
+                " Your Payment Card credentials; and Any other personal and payment information on or for the Device."
+              ]
+            },
+            {
+              "title": "b) Sharing Device Access",
+              "description": "On sharing the Device and/or means of access to the Device with any person, that person may be able to use the Payment Cards and access the personal and payment information available in the Third Party Platform. You are required to keep the Device, the Passcode, and the credentials secure in the same manner as You would keep secure cash, cheques, debit or credit cards, and other personal identification numbers and passwords."
+            },
+            {
+              "title": "c) Agreement and Payment Card Terms",
+              "description": "The Agreement and the Payment Cards Terms do not change when you link Your Payment Card to the Third Party Platform. The Third Party Platform provides another way for You to make purchases with Your Payment Card."
+            },
+            {
+              "title": "d) Applicable Fees and Charges",
+              "description": "Any applicable fees and charges that apply to Your Payment Card will also apply when You use the Third Party Platform to access Your Payment Card. The Third Party Platform provider and other third parties such as data service providers may levy additional charges on You as specified by them."
+            },
+            {
+              "title": "e) Linking Payment Cards",
+              "description": "You can link Your Payment Cards to the Third Party Platform by following the instructions of the Third Party Platform provider. You may only use Payment Cards that We indicate to You are eligible for use on the Third Party Platform. When You add a Payment Card to the Third Party Platform, the Third Party Platform will allow You to use the Payment Card to make transactions for goods and/or services where the Third Party Platform is accepted as a payment method. You should contact Us in accordance with section 2.2 of theAgreement where You wish to remove Your Payment Card from the Third Party Platform. We can also block Your Payment Card from use via the Third Party Platform at any time. You hereby agree and undertake to communicate only with Our contact center should you have any issue and not to contact any Third Party Platform unless we advise you otherwise in writing."
+            },
+            {
+              "title": "f) Breach of Confidentiality",
+              "description": "In the event of a breach of confidentiality of the Device, You shall be fully and solely responsible for and bear all charges, costs, losses, and damages whatsoever and howsoever arising from such breach. You shall immediately notify Us if the Passcode is breached or is disclosed to another person or entity. You should request Us to block the Payment Card due to such disclosure or breach."
+            },
+            {
+              "title": "g) Fraud, Loss, or Theft",
+              "description": [
+                " In the event of fraud, loss, or theft of the Device, You are obliged to immediately notify Us. We will arrange to block all Third Party Platform transactions for all Payment Cards. We reserve the right to refuse to permit any transaction if we suspect there is a breach of the Terms of Use, or that fraudulent or illegal activity is taking place in relation to the Payment Cards.",
+                "All remittances executions are on the same time and if unauthorized payment or incorrectly initiated or executed transactions by the payment services user then customer shall notify Enjaz Payment Services Company through the listed communication channels within 3 business days from the date of the request to take appropriate action for the cases to which it applies."
+              ]
+            },
+            {
+              "title": "h) Activity Records and Data Collection",
+              "description": "We may retain records of Your activity in the Third Party Platform, including the most recent transactional data. We may also periodically collect and use technical data and related information (that does not personally identify You) as a result of Your use of the Third Party Platform, including, but not limited to, technical information about Your Device. We may use this information to improve Our products or to provide services or technologies. We may provide Your details to third parties who perform services on behalf of Enjaz, and therefore, You may be contacted by such third parties on Our behalf to service Your accounts."
+            },
+            {
+              "title": "i) Data Transmission and Storage",
+              "description": "By registering, adding, and using the Payment Cards in the Third Party Platform, You acknowledge that certain Payment Card account information may be transmitted to and stored within your Device with the Third Party Platform provider and/or on the system of a third party working with the Third Party Platform provider, for purposes of the Third Party Platform. You acknowledge that such information may be used by the Third Party Platform provider and/or the third party working with the Third Party Platform provider. We shall not be responsible and have no control over the privacy and security of Your personal data and the information provided by You to the Third Party Platform provider which is governed by the privacy policy of and any agreement You may have with the Third Party Platform provider."
+            }
+          ]
+        },
+        "point14": {
+          "title": "13. transfer cancelations",
+          "description": "You acknowledge that in the event of your request to cancel the transfer after executing through Enjaz Payment Services Company channels, this does not mean that Enjaz Payment Services Company is obligated to implement it directly, except after receiving a response from the correspondent bank or the beneficiary agreeing to cancel the transfer. You also acknowledge that the correspondent and recipient bank has the right to deduct any commissions or fees from the transfer amount. Enjaz Payment Services Company has the right to deduct the transfer fees related to the cancellation without refunding them, and these fees will be taken from the amount deducted from your account at the time the transfer was executed. You further acknowledge that the amount of the canceled transfer will be returned at the exchange rate applicable at the time it was originally deposited into your account."
+        },
+        "point15": {
+          "title": "14.Account Closure Rules",
+          "subTitles": [
+            {
+              "title": "a. Validity of Agreement",
+              "description": "This agreement shall be valid until its expiration date, if any, or be an open-ended agreement."
+            },
+            {
+              "title": "b. Instructions for Account Closure",
+              "description": "Any instructions from the customer to close the customer data file or cancel this agreement must be delivered to us in writing via branch. Closing the customer data file or canceling this agreement will not result in the lapse of any claims or fees due to us that the customer is bound by before closing the customer data file or canceling this agreement."
+            }
+          ]
+        },
+        "point16": {
+          "title": "15. Statements",
+          "description": "This Site may include statements concerning our operations, prospects, strategies, financial condition, future economic performance and demand for our products or services, as well as our intentions, plans and objectives, which are forward-looking statements. These statements are based upon several assumptions and estimates which are subject to significant uncertainties, many of which are beyond our control. When used on our Site, words like 'anticipates', 'expects', 'believes', 'estimates', 'seeks', 'plans', 'intends' and similar expressions are intended to identify forward-looking statements designed to fall within any applicable law safe harbors for forward-looking statements. The site and the information contained herein does not constitute an offer or a solicitation of an offer for any investments, legal, taxes or otherwise advises. None of the information contained herein is intended to be, and shall not be deemed to be some advice, you should obtain a proper consultation from your own source before you took any decision relevant to any information, services or statements contained herein."
+        },
+        "point17": {
+          "title": "16. Links to Other Web Sites",
+          "description": "The Site contains links to other Web Sites. We are not responsible for the content, accuracy or opinions expressed in such Web Sites, and such Web Sites are not investigated, monitored, or checked for accuracy or completeness by us. Inclusion of any linked Web Site on our Site does not imply approval or endorsement of the linked Web Site by us. If you decide to leave our Site and access these third-party sites, you do so at your own risk."
+        },
+        "point18": {
+          "title": "17. Copyrights and Copyright Agents",
+          "description": "We respect the intellectual property of others, and we ask you to do the same."
+        },
+        "point19": {
+          "title": "18. Additional Condition",
+          "description": "All terms and conditions stated in any part of this Site or in Enjaz Payment Services Company publications shall form an integral part of this Agreement."
+        },
+        "point20": {
+          "title": "19. Applicable Law",
+          "description": "Terms and conditions of this Agreement and the use of this Site shall be construed and in accordance with applicable laws and regulations of the Kingdom of Saudi Arabia."
+        }
+      }
+    }
+  },
+  "SecurityStatementPage": {
+    "titlePage": "Terms of Use",
+    "datePage": "Last Updated: May 31, 2025",
+    "section1": {
+      "title": "SECURITY STATEMENT",
+      "points": {
+        "point1": {
+          "description": "Keeping your personal information secure and confidential is a priority at Enjaz Payment Services Company. We recommend that you adhere to the following information security guidelines:"
+        },
+        "point2": {
+          "title": "FOR YOUR PROTECTION:",
+          "listItems": [
+            "Remember your password and never share it with others or write it anywhere.",
+
+            "Do not disclose your password or ATM card PIN to anyone, even to Enjaz Payment Services Company’s staff.",
+            "Change your password frequently to ensure that it cannot be guessed or used by others.",
+            "Be sure others are not watching you entering information on the keyboard when using the system, especially when you login to the system.",
+            "Never leave your computer unattended while logged in to Enjaz Payment Services Company’s Internet System. Others may approach your computer and gain access to your account information if you walk away.",
+            "Click logout when you are finished using the system to properly end your session. Once a session has been ended, no further transactions can be processed until you login to the system again.",
+            "Always access Enjaz Payment Services Company internet by typing the company’s address into your web browser, not by searching its link through the search engines.",
+            "Never access the company’s site from a link in email messages or websites, and always you could rely on the electronic address (URL/e-mails) printed in the company’s publications.",
+            "Always be cautious and not respond to any unsolicited emails or phone calls asking you to disclose any personal details or card numbers.",
+            "Be cautious and aware of SPAM messages and phishing sites and never respond to requests for personal information or password through phone, email, or websites. Make sure you are browsing at Enjaz Payment Services Company official website.",
+            "In case your Account is not active for Six Months, Enjaz Payment Services Company shall deactivate your account and accordingly shall suspend your services until you activate your Account."
+          ]
+        },
+        "point3": {
+          "title": "FOR YOUR COMPUTER AND INFORMATION PROTECTION:",
+          "listItems": [
+            "Always use original copy of the operating system (Windows) on your computer.",
+            "Regularly install latest updates for your operating system, especially the security updates.",
+            "Install antivirus software and keep it up-to-date.",
+            "Activate the firewall program that comes with operating systems (such as Windows).",
+            "Do not install untrusted or unnecessary programs on your computer.",
+            "Use your own computer to access Enjaz Payment Services Company, and avoid using shared computers like in internet cafes, especially when you are abroad.",
+            "Make sure you follow up new security threats and alerts to minimize the impact of new security risks."
+          ]
+        },
+        "point4": {
+          "title": "TO PROTECT YOUR PRIVACY:",
+          "description": [
+            "All the information exchanged during your online access of Enjaz Payment Services Company session is encrypted and protected using secure socket layer (SSL) protocol.",
+            "We implement multifactor authentication system to provide additional security measures to verify your identity.",
+            "Enjaz Payment Services Company’s system will automatically log you out from internet systems after 20 minutes of inactivity.",
+            "Only authorized staff with specific business needs will be allowed to access customer’s data.",
+            "Our staffs are committed to maintain customer’s confidentiality and privacy.",
+            "When a user attempts to login to website with a wrong password for 3 times, the system will automatically lock out the user and the user will have to retrieve login information by using the “Retrieve Login Information” link.",
+            "You will not be able to use the online services until you properly followed the procedures mentioned in the “Retrieve Login Information” link.",
+            "Enjaz Payment Services Company implements high level of controls to protect essential records and information from loss, destruction, and falsification.",
+            "Moreover, the company continuously conducts security reviews to maintain the desired service security level.",
+            "We never provide any third party with your information except as required under the laws and regulations of the Kingdom of Saudi Arabia which is the laws and regulations govern all our mutual business relationships."
+          ]
+        },
+        "point5": {
+          "description": [
+            "In case of security breach, please report to:",
+            "  webmaster@bankalbilad.com   or ☎️ call phone at 800 5000 300"
+          ]
+        }
+      }
+    }
+  }
+}

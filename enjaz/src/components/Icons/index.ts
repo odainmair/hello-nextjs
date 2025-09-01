@@ -1,0 +1,8 @@
+export { default as AppleIcon } from "./AppleIcon"
+export { default as CartIcon } from "./CartIcon"
+export { default as DiagramIcon } from "./DiagramIcon"
+export { default as SamsungIcon } from "./SamsungIcon"
+export { default as SendIcon } from "./SendIcon"
+export { default as WorldIcon } from "./WorldIcons"
+export { default as ArrrowLeftIcon } from "./ArrrowLeftIcon"
+export { default as ArrrowRightIcon } from "./ArrrowRightIcon"

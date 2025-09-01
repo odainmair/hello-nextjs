@@ -1,0 +1,8 @@
+export { default as HeroSection } from "./HeroSection"
+export { default as SliderWIthCards } from "./SliderWIthCards"
+export { default as VideoWithTitle } from "./VideoWithTitle"
+export { default as VideoWithTitleAndButton } from "./VideoWithTitleAndButton"
+export { default as LatestOffrs } from "./LatestOffrs"
+export { default as Faq } from "./FAQ"
+export { default as DownloadEnjazApp } from "./DownloadEnjazApp"
+export { default as PinSliderFeature } from "./PinSliderFeature"

@@ -1,0 +1,5 @@
+export { default as CompanyHeroSection } from "./CompanyHeroSection"
+export { default as EnjazInNumbers } from "./EnjazInNumbers"
+export { default as WhatWeDo } from "./WhatWeDo"
+export { default as OurTeam } from "./OurTeam"
+export { default as CuriousForMore } from "./CuriousForMore"

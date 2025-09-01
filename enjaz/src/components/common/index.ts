@@ -1,0 +1,6 @@
+export { default as NavLink } from "./NavLink"
+export { default as Footer } from "./Footer"
+export { default as ChangeLang } from "./ChangeLang"
+export { default as Hidden } from "./Hidden"
+export { default as CookiesModal } from "./CookiesModal"
+export { default as GetAppModal } from "./GetAppModal"

@@ -1,0 +1,6 @@
+export { default as TransferHeroSection } from "./TransferHeroSection"
+export { default as OneImageSlider } from "./OneImageSlider"
+export { default as TransferPartners } from "./TransferPartners"
+export { default as MoreWayToSendMony } from "./MoreWayToSendMony"
+export { default as Questions } from "./Questions"
+export { default as OurPartnerEcosystem } from "./OurPartnerEcosystem"
